@@ -15,6 +15,9 @@ Contents:
    :maxdepth: 2
 
 
+   first_page
+
+
 
 Indices and tables
 ==================
