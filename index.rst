@@ -6,6 +6,9 @@
 Welcome to japanese document sample's documentation!
 ====================================================
 
+これは日本語のドキュメントのサンプルです。
+
+
 Contents:
 
 .. toctree::
