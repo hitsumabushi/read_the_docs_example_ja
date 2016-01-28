@@ -47,8 +47,10 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'japanese document sample'
-copyright = '2016, 著者 means author'
-author = '著者 means author'
+copyright = u'2016, 著者 means author'
+author = u'著者 means author'
+#copyright = '2016, 著者 means author'
+#author = '著者 means author'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
